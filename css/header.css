@@ -44,6 +44,7 @@
    align-items: center;
    gap: 4px;
    transition: .2s ease-in-out;
+   border: 1px solid #D9D9D9;
 }
 
 .header-basket:hover {

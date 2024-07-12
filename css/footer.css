@@ -1,0 +1,31 @@
+.footer {
+   padding: 60px 0;
+}
+
+.footer-box {
+   height: 100%;
+   align-items: center;
+   display: flex;
+   justify-content: space-between;
+   gap: 36px;
+}
+
+.footer-nav {
+   flex-grow: 1;
+}
+
+.nav-list {
+   display: flex;
+   gap: 15px;
+}
+
+.nav-link {
+   font-size: 18px;
+   color: #595959;
+}
+
+.footer-social {
+   display: flex;
+   gap: 20px;
+   align-items: center;
+}
