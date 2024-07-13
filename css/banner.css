@@ -1,0 +1,33 @@
+.banner {
+   padding: 0 0 56px 0;
+}
+.banner-bg {
+   background-image: url(../img/bg/banner-img.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-position: center right;
+   padding: 68px;
+   background-color: #fff1B8;
+   border-radius: 10px;
+}
+
+.banner-title {
+   max-width: 409px;
+   width: 100%;
+   font-weight: 700;
+   font-size: 39px;
+   color: #302c34;
+   margin: 0 0 15px 0;
+}
+.banner-text {
+   max-width: 508px;
+   width: 100%;
+   font-size: 24px;
+   color: #302c34;
+}
+
+@media (max-width: 991px) {
+   .banner-bg {
+      background-image: none;
+   }
+}

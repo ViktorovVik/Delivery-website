@@ -1,4 +1,9 @@
 @import url('basic.css');
 @import url('header.css');
+@import url('logo.css');
+@import url('buttons.css');
+@import url('banner.css');
 @import url('products.css');
+@import url('goods.css');
+@import url('cart-modal.css');
 @import url('footer.css');

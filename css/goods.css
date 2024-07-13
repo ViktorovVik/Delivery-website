@@ -1,0 +1,30 @@
+.products-card__desc-row {
+
+}
+.products-card__desc--name {
+   font-size: 24px;
+   line-height: 133%;
+   color: #000;
+   font-weight: 400;
+}
+.products-card__desc--text {
+   font-weight: 400;
+   font-size: 18px;
+   color: #8C8C8C;
+}
+.products-card__desc-controls {
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+   gap: 30px;
+   row-gap: 10px;
+   column-gap: 30px;
+}
+
+.products-card__desc-controls--price {
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 160%;
+   color: #000;
+}
